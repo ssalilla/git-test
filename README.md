@@ -1,4 +1,6 @@
-#h1 JopAndMe
+# H1 JopAndMe
+
+____________
 
 [สีเทา](https://www.youtube.com/watch?v=fQoqMZEPTuk)  
 
@@ -19,5 +21,3 @@
 
 
 >> อย่างนี้...
-
-____________
